@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TestNNTC.DAL\bin\Debug\net5.0\TestNNTC.DAL.deps.json
+C:\Users\Admin\source\repos\TestNNTC.DAL\bin\Debug\net5.0\TestNNTC.DAL.runtimeconfig.json
+C:\Users\Admin\source\repos\TestNNTC.DAL\bin\Debug\net5.0\TestNNTC.DAL.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestNNTC.DAL\bin\Debug\net5.0\TestNNTC.DAL.dll
+C:\Users\Admin\source\repos\TestNNTC.DAL\bin\Debug\net5.0\ref\TestNNTC.DAL.dll
+C:\Users\Admin\source\repos\TestNNTC.DAL\bin\Debug\net5.0\TestNNTC.DAL.pdb
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.dll
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\ref\TestNNTC.DAL.dll
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.pdb
+C:\Users\Admin\source\repos\TestNNTC.DAL\obj\Debug\net5.0\TestNNTC.DAL.genruntimeconfig.cache

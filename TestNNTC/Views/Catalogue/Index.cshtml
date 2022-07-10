@@ -1,0 +1,22 @@
+﻿@model IEnumerable<TestNNTC.DAL.ViewModel.CatalogueViewModel>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+
+@foreach(var catalogueName in Model)
+            {
+                <h1>@catalogueName.CategoryName</h1>
+
+                @foreach(var catalogueProduct in catalogueName.CatalogueDataProducts)
+                {
+                    <li>@catalogueProduct.ProductName , @catalogueProduct.Description , @catalogueProduct.Cost</li>
+                    
+                }
+            }
+
+
