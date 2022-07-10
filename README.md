@@ -1,7 +1,8 @@
 # TestNNTC
 
 Тестовое задание. 
-
+```diff
 Два брейкпоинта в контроллере доступы по следующим ссылкам:
-https:// ... <p style='color:red'>/Catalogue/DownLoadFile</p>
-https:// ... <p style='color:red'>/Catalogue/DownLoadEveryTwoFile</p>
+https:// ... /Catalogue/ + DownLoadFile
+https:// ... /Catalogue/ + DownLoadEveryTwoFile
+```
